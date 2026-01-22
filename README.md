@@ -9,3 +9,4 @@ git clone https://github.com/marlonzl7/git-aliases.git
 cd git-aliases
 chmod +x install.sh
 ./install.sh
+source ~/.bashrc
