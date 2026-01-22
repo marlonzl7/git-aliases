@@ -10,3 +10,8 @@ cd git-aliases
 chmod +x install.sh
 ./install.sh
 source ~/.bashrc
+```
+
+### Para lembrar dos aliases
+```bash
+cat ~/.git-aliases.sh
